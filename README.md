@@ -26,7 +26,7 @@ This project is a **Streamlit** application that predicts ice cream sales based 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ice-cream-sales-prediction.git
+   git clone https://github.com/suryakant0111/Ice-Cream-Revenue-Prediction-/tree/main
    ```
    
 2. Navigate to the project directory:
